@@ -1,3 +1,5 @@
+# It's Time For New C++ Leadership
+
 C++ is at an inflection point. The C++ Committee has been successful over the past decade. Yet the landscape has changed, and we must adapt to be successful in the future.
 
 We need engaged new leadership to address the challenges we face, and to build the next generation of C++ leadership. I, Bryce Adelstein Lelbach, am seeking the U.S. nomination for the position of ISO/IEC JTC1/SC22/WG21 Convenor to provide such leadership.
